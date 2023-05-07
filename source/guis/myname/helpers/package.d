@@ -1,1 +1,1 @@
-module servers.myname.helpers;
+module guis.myname.helpers;

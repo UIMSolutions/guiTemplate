@@ -1,1 +1,1 @@
-module servers.myname.interfaces;
+module guis.myname.tests;
