@@ -1,1 +1,1 @@
-# Library 📚 gui-myname
+# GUI Library 📺 gui-myname
